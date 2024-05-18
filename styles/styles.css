@@ -61,4 +61,12 @@ article img, article.featured img {
     gap:60px;
     align-items: center;
   }
+
+  @media screen  and(max-width:760px) {
+    article article.feature {
+      display: block;
+      margin: 0 20px;
+    }
+    
+  }
 }
