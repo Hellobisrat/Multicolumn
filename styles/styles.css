@@ -41,6 +41,9 @@ article.featured {
   padding-bottom: 60px;
 }
 
+.Pict2 img {
+  height: 250px;
+}
 article p, article h3 {
   margin: 20px 10px;
 }
